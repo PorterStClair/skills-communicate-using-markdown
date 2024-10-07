@@ -7,3 +7,6 @@ this is normal text
 ``` java
 System.out.print("Hello World!");
 ```
+- [ ] This is the first task
+- [ ] Here is a second task
+- [ ] FInally a third task is here
